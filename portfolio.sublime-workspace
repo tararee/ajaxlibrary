@@ -1,0 +1,363 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fri",
+				"friend"
+			],
+			[
+				"fad",
+				"fadeOut"
+			],
+			[
+				"phil",
+				"phildiv"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"hi",
+				"hide"
+			],
+			[
+				"pill",
+				"pillappeardiv"
+			],
+			[
+				"spri",
+				"spriteSheetPanda"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"button",
+				"buttontry"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"l",
+				"livesInIndy"
+			],
+			[
+				"me",
+				"knowNoStrangerMem"
+			],
+			[
+				"r",
+				"emilyRoberts"
+			],
+			[
+				"s",
+				"saraNowlin"
+			],
+			[
+				"v",
+				"vocation"
+			],
+			[
+				"m",
+				"meganHart"
+			],
+			[
+				"c",
+				"closeLikeABrother"
+			],
+			[
+				"e",
+				"emilyRoberts"
+			],
+			[
+				"cl",
+				"closeLikeABrother"
+			],
+			[
+				"y",
+				"yearsKnown"
+			],
+			[
+				"a",
+				"age"
+			],
+			[
+				"cre",
+				"create"
+			],
+			[
+				"n",
+				"nickKirkes"
+			],
+			[
+				"t",
+				"typesOfSoda"
+			],
+			[
+				"h",
+				"head"
+			],
+			[
+				"b",
+				"body	Tag"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"Li",
+				"list-style-type"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"u",
+				"ul	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/Node.sublime-build",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 216.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Carol/Desktop/portfolio/tararee.github.io/home.html",
+		"/Users/Carol/Desktop/portfolio/tararee.github.io/css/agency.css",
+		"/Users/Carol/Desktop/portfolio/tararee.github.io/index.html",
+		"/Users/Carol/Desktop/ajaxlibrary/index.html",
+		"/Users/Carol/Desktop/ajaxlibrary/index.js",
+		"/Users/Carol/Desktop/gitdemo/<h1>Good morning<:h1>",
+		"/Users/Carol/Desktop/gitdemo/stuff.css",
+		"/Users/Carol/Desktop/gitdemo/index.html",
+		"/Users/Carol/Desktop/playground/phil/phil.js",
+		"/Users/Carol/Desktop/spriteclub/spriteclub.js",
+		"/Users/Carol/Desktop/spriteclub/spriteclub.css",
+		"/Users/Carol/Desktop/spriteclub/index.html",
+		"/Users/Carol/Desktop/spriteclub/spritesheetpanda.png",
+		"/Users/Carol/Desktop/fight club/panda_tinternet.png",
+		"/Users/Carol/Desktop/portfolio/tararee.github.io/landingpage.html",
+		"/Users/Carol/Library/Application Support/Sublime Text 2/Packages/User/Node.sublime-build",
+		"/Users/Carol/Desktop/test.js",
+		"/Users/Carol/Desktop/spriteclub/spriteclub.html",
+		"/Users/Carol/Desktop/playground/fight club/fightclub.css",
+		"/Users/Carol/Desktop/portfolio/tararee.github.io/scss/agency.scss",
+		"/Users/Carol/Desktop/playground/fight club/fightclub.html",
+		"/Users/Carol/Desktop/playground/phil/phil.css",
+		"/Users/Carol/Desktop/playground/phil/phil.html",
+		"/Users/Carol/Desktop/playground/jquery/jquery-selectors.html",
+		"/Users/Carol/Desktop/playground/jquery/jquery-selectors.css",
+		"/Users/Carol/Desktop/playground/jquery/jquery-selectors.js",
+		"/Users/Carol/Desktop/portfolio/tararee.github.io/img/header-bg.jpg",
+		"/Users/Carol/Desktop/playground/HTML Playground.htm",
+		"/Users/Carol/Desktop/index.html",
+		"/Users/Carol/Desktop/playground/index.html"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ampersand",
+			"xl",
+			"min",
+			"agency.css",
+			"min.css",
+			"btn-xl",
+			"btn-md",
+			"software deve",
+			"intro-heading",
+			"page-scroll",
+			"ree",
+			"100",
+			"intro-heading",
+			"tara",
+			"intro-he",
+			"btn-xl",
+			"#fed136",
+			"fed136",
+			"#fed136\n",
+			",\n",
+			"#fed136",
+			"appear",
+			"handleKeydown",
+			"handkleKeydown",
+			"onkey",
+			"esprite",
+			"soap",
+			"testCanvas",
+			"function",
+			"player",
+			"button-xl",
+			"scroll",
+			"img",
+			"Services",
+			"hansKloepfer",
+			"nickKirkes",
+			"lg",
+			"xl",
+			"col-lg-4"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"btn-md",
+			"tyler"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.045045045045,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 178.0
+	},
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true
+}
